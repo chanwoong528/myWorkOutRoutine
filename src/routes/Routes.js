@@ -8,12 +8,10 @@
   function AppRouter(props) {
       return (
         <Router>
-            
+
 
 
         </Router>
-
-
       )
   }
   export default AppRouter;
